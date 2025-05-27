@@ -6,6 +6,5 @@ public class Cuadrado {
 	private String color;
 	private double lado;
 	
-	private int mas;
-
+	
 }
